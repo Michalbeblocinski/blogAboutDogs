@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@ckeditor/ckeditor5-upload": "^35.1.0",
+    "froala-editor": "^4.0.14"
+  }
+}
